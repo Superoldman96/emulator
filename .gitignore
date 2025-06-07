@@ -147,6 +147,7 @@ UpgradeLog*.htm
 user*.bat
 
 .vscode/
+compile-commands.json
 
 page/public/analyzer.js
 page/public/analyzer.wasm
